@@ -5,7 +5,7 @@
 
   🌱 I’m currently learning React
   
-  👨‍💻 All of my projects are available at [placeholder.com](placeholder.com)
+  👨‍💻 All of my projects are available here - check my pinned repos
   
   💬 Ask me about my projects or anything you'd like :)
   
